@@ -1,0 +1,32 @@
+.page-chair-container-phone{
+    padding-bottom: 90px;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+    background-color: #114F5A;  
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+
+.card-buttons-phone{
+    padding: 10px ;
+    display: flex;
+    width: 100%;    
+    justify-content: space-between;
+}
+
+
+.img-product-phone{
+    padding: 0 0 0 90px;
+    width: 100%;
+    height: 100%;
+}
+
+.img-chair-page-phone{
+    width: 200px;
+    height: 200px;
+}
+
+.bolinha-content-phone{
+    padding-left: 160px;
+}

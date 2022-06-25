@@ -1,0 +1,59 @@
+ul{
+    list-style: none;  
+}
+
+.li1-phone{
+    background-color: #FFFFFF;
+    color: #114F5A;
+    width: 60px;
+    height: 24px;
+    border-radius: 5px;
+    text-align: center;   
+}
+
+.li2-phone{
+    background-color: #114F5A;
+    color: #FFFFFF;
+    width: 70px;
+    height: 24px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.li3-phone{
+    background-color: #114F5A;
+    color: #FFFFFF;
+    width: 70px;
+    height: 24px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.li4-phone{
+    background-color: #114F5A;
+    color: #FFFFFF;
+    width: 70px;
+    height: 24px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.list-content-phone{
+    padding: 30px 10px 0 10px;
+    display: flex;
+    font-size: 14px;
+    width: 100%;    
+    justify-content: space-between;
+}
+
+.list-content-phone li.hover{
+    background-color: #FFFFFF;
+    color: #114F5A;
+}
+
+
+
+
+
+

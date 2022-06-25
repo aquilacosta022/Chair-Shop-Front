@@ -1,0 +1,30 @@
+.bed-card-container-phone{
+    width: 113px;
+    background-color: #FFFFFF;
+    padding: 0 4px 4px 0px;
+    border-radius: 8px;
+}
+
+.img-container-phone{
+    align-items: center;
+}
+
+.bed-card-text-container-phone{
+    padding-left: 4px;
+}
+
+.bed-card-text-phone{   
+    font-size: 11px;
+}
+
+.bed-card-content-phone{
+    padding: 3px 0 0 4px;
+    display: flex;
+    width: 105px;    
+    justify-content: space-between;
+}
+
+.heart-img:active path{
+    fill: red;
+    stroke: red;
+}

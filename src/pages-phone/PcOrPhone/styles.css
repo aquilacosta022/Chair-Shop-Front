@@ -1,0 +1,17 @@
+.pop-text{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.pop-buttons{
+    display: flex;
+    flex-direction: row;
+}
+
+.pop-pc{
+    padding: 30px 200px 0 400px;
+}
+
+.pop-phone{
+    padding-top: 30px;
+}

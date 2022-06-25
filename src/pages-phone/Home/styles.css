@@ -1,0 +1,41 @@
+.home-container-phone{
+    padding: 10px;
+    height: auto;
+}
+
+.chair-card-phone{
+    display: flex;
+    width: 350px;      
+    justify-content: space-between;
+}
+
+.bed-card-phone{  
+    display: flex;
+    width: 350px;      
+    justify-content: space-between;
+}
+
+.table-card-phone{
+    display: flex;
+    width: 350px;      
+    justify-content: space-between;
+}
+
+.home-text-phone{
+    padding: 15px 0 10px 0;
+    color: #000000;
+}
+
+.home-image-container-phone{
+    padding: 0;
+}
+
+.home-image-container-phone svg{
+    width: 100%;
+    height: auto;
+}
+
+.home-content-container-list-phone{
+    padding-top: 40px;
+}
+

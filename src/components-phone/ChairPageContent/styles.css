@@ -1,0 +1,49 @@
+.chair-page-content-phone{
+    height: 367px;
+    padding-top: 80px;
+}
+
+.page-back-phone{ 
+    height: 100%;
+    background-color: #FFFFFF;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+    padding: 10px 20px 0 20px;
+}
+
+.page-font-title-phone{
+    font-weight: bold;
+    color: #000000;
+}
+
+.page-content-phone{
+    padding-top: 10px;
+}
+
+.page-title-phone{
+    padding-left: 85px;
+}
+
+.page-price-phone{
+    padding-top: 15px;
+}
+
+.page-h1-phone{
+    color: #000000;
+}
+
+.page-content-product-phone{
+    display: flex;
+    flex-direction: row;
+}
+
+.add-product-phone{
+    padding: 15px 0 0 140px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.buy-button-phone{
+    padding: 40px 0 0 110px;
+}

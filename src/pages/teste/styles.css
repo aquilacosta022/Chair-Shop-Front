@@ -1,0 +1,164 @@
+.process{
+        color: rgba(0, 0, 0, 0.5);
+        font-weight: 700;
+        font-size: 32px;
+        padding-left: 270px;
+        padding-top: 17px;
+
+}
+.header {
+    font-size: 64px;
+    font-weight: 700;
+    color: #000;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 550px;
+    padding-top: 20px;
+}
+
+
+.division-containers{
+    padding-top: 24px;
+    display: inline-flex;
+    width: auto;
+    justify-content: space-between;
+    height: auto;
+   
+}
+
+.conatiner-principal{
+  
+    width: 650px;
+    height: auto;
+    padding-left: 28px;
+    padding-top: 55px;
+
+    border-radius: 12px;
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+}
+
+
+.sub-img1{
+    
+    width: 267px;
+    height: 309px;
+    padding-left: 28px;
+    background-color: #fff;
+    border-radius: 12px;
+}
+
+.img-top{
+
+    width: 220px;
+    height: 220px;
+}
+
+.carrinho{
+     
+    border-color: #000;
+    border-width: 3px;
+    border-radius: 8px;
+    border-style: solid;
+    width: 552px;
+    height: 452px;
+    background-color: #fff;
+    
+}
+.ajust-card{
+    padding-left: 110px;
+}
+
+.text-cart{
+    display: inline-flex;
+    justify-content: space-between;
+
+}
+.space-to-text{
+    width: 520px;
+    padding-left: 28px;
+    justify-content: space-between;
+    height: auto;
+    display: inline-flex;
+    padding-top: 28px;
+    font-size: 32px;
+    color: #000;
+  
+}
+
+.line-border{
+   padding-top: 14px;
+    
+    width: 100%;
+    height: 1px;
+    padding-left: 20px;
+
+}
+.Cadeira-bottom{
+    padding-top: 16px;
+   
+}
+.price-bottom{
+    padding-top: 16px;
+    
+}
+.space-to-cart-price{
+    font-weight: 600;
+}
+
+.line{
+    width: 512px;
+    height: 1px;
+    padding-left: 20px;
+    background-color: #000;
+}
+.total-price{
+    width: 100%;
+    height: 175px;
+    padding-left: 28px;
+    font-size: 32px;
+    font-weight: 700;
+    padding-right: 28px;
+    display: inline-flex;
+    justify-content:space-between;
+    color: #000;
+   
+}
+
+.buy{
+    width: 100%;
+    height: 105px;
+    align-items: center;
+    padding: 21px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.buy-botton{
+    width: 280px;
+    height: 62px;
+    background-color: #000;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    align-items: center;
+    
+}
+
+.buy-botton-text{
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 98px;
+    
+}
+.ajust{
+    padding-left: px;
+}

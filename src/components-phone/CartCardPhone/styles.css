@@ -1,0 +1,40 @@
+.cart-buy-card-container-phone{
+    padding: 10px 0 0 10px;
+
+}
+
+.card-buy-phone{
+    width: 250px;
+    height: 110px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    border-radius: 8px;
+}
+
+.chair-card-text-phone{
+    padding-top: 15px;
+}
+
+.chair-card-buy-phone{
+    padding-top: 5px;
+    color: #C49450;
+}
+
+.chair-card-text-phone2{
+    font-size: 14px;
+}
+
+.add-remove-phone{
+    width: 50px;
+    padding-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.lixeira-icon{
+    padding-top: 4px;
+    padding-left: 120px;
+    width: 140px;
+}

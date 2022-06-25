@@ -1,0 +1,29 @@
+.favorites-container-phone{
+    height: 612px;
+}
+
+.favorites-title-phone{
+    padding: 10px 0 0 10px;
+}
+
+.favorites-img-phone{
+    padding: 40px 0 0 10px;
+
+}
+
+.favorites-chairs-1-phone{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 360px;
+}
+
+.favorites-chairs-2-phone{
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 360px;
+}
+
+

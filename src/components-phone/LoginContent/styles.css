@@ -1,0 +1,38 @@
+.login-content-phone{
+    height: 299px;
+    padding-top: 20px;
+    padding-left: 70px;
+}
+
+.enter-with-phone{
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.login-butttons-phone{
+    padding-top: 10px;
+    display: flex;
+    width: 220px;    
+    justify-content: space-between;
+}
+
+.no-account-phone{
+    display: flex;
+    width: 250px;
+    flex-direction: row;
+    padding-top: 7px;
+}
+
+.no-account-1-phone{  
+    font-size: 11px;
+}
+
+.no-account-2-phone{
+    font-size: 11px;
+    color:#000000;
+}
+
+.enter-container-phone{
+    padding: 5px 0 0 75px;
+}

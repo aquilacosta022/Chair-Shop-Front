@@ -1,0 +1,127 @@
+
+
+.main-nav{
+    min-height: 60px;
+    
+    
+}
+
+.nav-logo-text{
+   color: #000;
+}
+
+.nav-logo-text{
+   padding-left: 10px;
+   font-size: 30px; 
+   width: 700;
+}
+.logo{
+   padding-left: 70px;
+   padding-top: 5px;
+
+}
+
+
+.main-menu{
+    display: flex;
+   font-size: 32px; 
+   width: 812px;
+   justify-content: space-between;
+   padding-left: 70px;
+   padding-right: 70px;
+}
+
+.main-menu a{
+   color: #000;
+   font-weight:400;
+   
+}
+
+
+
+ 
+.main-menu a.active{
+   color: #B6EB7A;
+   font-weight: 600;
+}
+
+
+
+
+
+.loginimg{
+   padding-right: 30px;
+   height: auto;
+   width: auto;
+}
+
+.search-card{
+   background: #fff;
+   border: solid 2px;
+   width: 440px;
+   height: 52px;
+   border-radius: 8px;
+   
+   
+
+}
+
+.lupa{
+   display: flex;
+   padding-top: 3px;
+
+   padding-left: 8px;
+
+}
+
+.animation-search{
+   padding-top: 50px;
+}
+
+.search-text{
+   background: none;
+   border: 0;
+   outline: 0;
+   font-size: 26px;
+   font-weight: 400;
+   color: #000;
+
+}
+
+
+
+.select-menu .options{
+   position: absolute;
+   background-color: #3A7B99;
+   margin-top: 0px;
+   margin-left: 0x;
+   border-radius: 0px 0px 12px 12px;
+   height: 408px;
+   width: 202px;
+
+   
+}
+
+.select-menu.active .options{
+     display: none;
+}
+
+.options .option{
+   cursor: pointer;
+   display: flex;
+   text-align: left;
+   color: #fff;
+   font-weight: 600;
+   font-size: 32px;
+   
+
+   
+}
+
+.sBtn-text{
+   color: #000;
+}
+
+.seta{
+   color: #000;
+}

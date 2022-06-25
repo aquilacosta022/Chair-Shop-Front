@@ -1,0 +1,62 @@
+.main-nav-phone{
+    min-height: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-bottom: 0px;
+}
+
+.navbar-nav-phone{
+    padding: 0px 15px 0px 15px;
+    max-height: 0px;
+}
+
+.main-menu-phone{
+    display: flex;
+    font-size: 11px;
+    width: 350px;    
+    justify-content: space-between;
+}
+
+.navbar-nav2-phone{
+    padding: 0px 26px 0px 15px;
+}
+
+.main-menu2-phone{
+    display: flex;
+    width: 350px;    
+    justify-content: space-between;
+}
+
+.main-menu-phone a{
+    color: rgba(0, 0, 0, 1);
+}
+
+.main-menu-phone a.active{
+    font-weight: bold;
+}
+
+.main-menu2-phone a.active path{
+    fill: #000000;
+}
+
+
+.nav-card-phone{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.nav-images-phone{
+    width: auto;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+.chair-card-container-phone{
+    width: 113px;
+    background-color: #FFFFFF;
+    padding: 0 0 4px 4px;
+    border-radius: 8px;
+}
+
+.chair-card-text-container-phone{
+    padding-right: 0px;
+}
+
+.chair-card-text-phone{   
+    font-size: 11px;    
+}
+
+.chair-card-content-phone{
+    padding-top: 3px;
+    display: flex;
+    width: 100px;    
+    justify-content: space-between;
+}
+

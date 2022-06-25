@@ -1,0 +1,44 @@
+.cart-container-phone{
+    height: 612px;
+}
+
+.cart-title-phone{
+    padding: 10px 0 0 10px;
+}
+
+.cart-page-content-phone{
+    padding-top: 100px;
+    padding-left: 15px;
+}
+
+.cart-page-subtotal-phone{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 330px;
+}
+
+.cart-page-freight-phone{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 330px;
+}
+
+.cart-page-line-phone{
+    padding-left: 5px;
+}
+
+
+.cart-page-total-phone{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 330px;
+}
+
+.cart-page-text-phone{
+    color: black;
+}
+
